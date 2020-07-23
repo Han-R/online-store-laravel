@@ -1,0 +1,223 @@
+
+body{
+    font-family: cairo;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, span, button {
+    font-family: 'Droid Arabic Kufi' !important;
+
+}
+.card-service span {
+    font-size: 12px
+}
+
+.main_menu > li > a {
+    font-size: 12px;
+}
+
+.btn i {
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+    left: 10px;
+}
+.pull-left {
+    float: right !important;
+}
+
+.swiper-button-next.slider-long-arrow-white, .swiper-container-rtl .swiper-button-prev.slider-long-arrow-white {
+    background-image: url(../images/arrow-next-light-dark.png);
+    left: 0;
+}
+.margin-20px-left {
+    text-align: right;
+}
+
+.logo-site {
+    float: right;
+}
+.header_middle {
+    float: left;
+    margin-left: 0px;
+}
+.main_menu {
+    float: right;
+    margin-left: 20px;
+}
+.main_menu > li {
+    float: right;
+    margin-right: 40px;
+}
+.main_menu > li:last-child {
+    margin-right: 40px;
+}
+
+
+.section_home:after {
+    top: -110px;
+    right: -440px;
+}
+
+
+.home_thumb{
+
+  left: 10% !important;
+  right: auto;
+
+}
+
+.home_txt {
+    padding-left: 80px;
+}
+
+.section-portfolio span {
+    margin-right: 93px;
+    text-align: right !important;
+}
+.section-portfolio h2, .section-portfolio h6 {
+    text-align: right;
+    margin-right: 93px;
+}
+.section-portfolio h4 {
+    text-align: right;
+    margin: 20px 0 20px 0px;
+}
+.section-portfolio h6 {
+    margin-right: 0px;
+    color: #969696;
+    font-style: initial;
+}
+
+
+.section-about-page h2::before {
+    margin-left: 20px;
+    margin-right: -10px;
+}
+
+
+
+
+
+.card-service ul li:before {
+    margin-left: 10px;
+}
+
+
+.section-contact h2::before {
+    margin-left: 20px;
+}
+.section-contact .btn_contact {
+    float: right;
+}
+
+
+.close {
+    left: 23px;
+    right: auto;
+}
+
+
+
+.section-about-page p {
+    margin-right: 30px;
+
+}
+
+.section-contact strong {
+    color:#6843fb 
+}
+
+.section-experience ol {
+    margin-left: 20px;
+}
+
+.list-style-4 li:before {
+    content: "\f00c";
+    position: absolute;
+    top: 1px;
+    right: 0;
+    font-family: Font Awesome\ 5 Free;
+    font-weight: 900;
+    left: auto;
+}
+
+.list-style-4 li {
+    position: relative;
+    padding: 0 22px 10px 0;
+    margin: 0 0 10px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.feature-box-5 {
+    padding-right: 75px;
+}
+
+.feature-box-5 i {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.margin-5px-bottom {
+    margin-bottom: 5px;
+    font-family: cairo;
+}
+
+input {
+    width: 100%;
+    border: 1px solid #eae6e6;
+    height: 60px;
+}
+
+.margin-10px-bottom {
+    margin-bottom: 10px;
+    font-family: cairo;
+}
+
+.post-date {
+    float: left;
+}
+.post-image-link {
+    position: relative;
+    width: 87px;
+    height: 100%;
+    float: right;
+    overflow: hidden;
+    display: block;
+    vertical-align: middle;
+    margin: 0 0 0 12px;
+}
+.Reading .boxR h2 {
+
+    text-align: right;
+    
+}
+.Reading time {
+    color: #777;
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+}
+.Reading i {
+    color: #777;
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    right: auto;
+}
+blockquote:before {
+    transform: rotate(180deg);
+}
+blockquote:after {
+    transform: rotate(180deg);
+    margin-right: 5px;
+}
+.labels li {
+    float: right;
+}
+.btn.btn-dark-gray {
+    background: #00ca9d;
+    border-color: #00ca9d;
+    color: #fff;
+    float: right;
+}

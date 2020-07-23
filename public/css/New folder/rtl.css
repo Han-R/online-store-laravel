@@ -1,0 +1,156 @@
+
+body{
+    font-family: cairo;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, span {
+    font-family: cairo !important;
+
+}
+.card-service span {
+    font-size: 12px
+}
+ol, ul {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.main_menu > li > a {
+    font-size: 12px;
+}
+
+.logo-site {
+    float: right;
+}
+.header_middle {
+    float: left;
+    margin-left: 0px;
+}
+.main_menu {
+    float: right;
+    margin-left: 20px;
+}
+.main_menu > li {
+    float: right;
+    margin-right: 40px;
+}
+.main_menu > li:last-child {
+    margin-right: 40px;
+}
+
+
+.section_home:after {
+    top: -110px;
+    right: -440px;
+}
+
+
+.home_thumb{
+
+  left: 10% !important;
+  right: auto;
+
+}
+
+.home_txt {
+    padding-left: 80px;
+}
+
+.section-portfolio span {
+    margin-right: 93px;
+    text-align: right !important;
+}
+.section-portfolio h2, .section-portfolio h6 {
+    text-align: right;
+    margin-right: 93px;
+}
+.section-portfolio h4 {
+    text-align: right;
+    margin: 20px 0 20px 0px;
+}
+.section-portfolio h6 {
+    margin-right: 0px;
+    color: #969696;
+    font-style: initial;
+}
+
+
+.section-about-page h2::before {
+    margin-left: 20px;
+    margin-right: -10px;
+}
+
+
+
+
+
+.card-service ul li:before {
+    margin-left: 10px;
+}
+
+
+.section-contact h2::before {
+    margin-left: 20px;
+}
+.section-contact .btn_contact {
+    float: right;
+}
+
+
+.close {
+    left: 23px;
+    right: auto;
+}
+
+
+
+.section-about-page p {
+    margin-right: 30px;
+
+}
+
+.section-contact strong {
+    color:#6843fb 
+}
+
+.section-experience ol {
+    margin-left: 20px;
+}
+
+
+
+
+.before-text h2 {
+    margin-right: 20px;
+    width: auto
+}
+
+.before-text span {
+    right: 0;
+    top: -10px;
+}
+
+.section-experience ul {
+    margin-right: 0;
+    text-align: right;
+}
+.section-experience ul li::after {
+    right: 15px;
+    margin-right: 0;
+}
+
+
+.section-experience ul li {
+    margin-right: 15px;
+}
+
+.section-about-page .home_txt p {
+    margin-right: 0;
+
+}
+
+
+
+
+
+
+
